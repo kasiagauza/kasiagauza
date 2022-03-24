@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Kasia Gauza @kasiagauza 🏳️‍🌈
-- 👀 I’m interested in automation, configuration management and history
+- 👋 Hi, I’m Kajsa Gauza @kasiagauza 🏳️‍🌈
+- 👀 I’m interested in automation, configuration management and... social history
 - 🌱 I’m currently learning Containers, Linux internals, Kubernetes and Podman
 - 📫 How to reach me: write DM here
 
